@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Matthew 👋
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=matthewcalbert&theme=tokyonight&show_icons=true&hide_border=true" alt="Matthew's Github Stats"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewcalbert&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/matthewcalbert/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=matthewcalbert&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewcalbert&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true)](https://github.com/matthewcalbert/github-readme-stats)
 
 <!-- [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewcalbert&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
+#### Currently Working On
+
+* Final Year Thesis 🎓
+* Native iOS Development 
+* Microservices 🔬
+* Cloud Environment ☁️ 🛠️
 
 <!-- 
 ### Languages
