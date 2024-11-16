@@ -5,12 +5,11 @@
 
 <!-- [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewcalbert&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
-#### Currently Working On
+#### Currently Working On / Learning
 
-* Final Year Thesis 🎓
-* Native iOS Development 
-* Microservices 🔬
-* Cloud Environment ☁️ 🛠️
+* Building Startup 🚀
+* AI for Domain-specific Use Cases 🤖
+* Cyber Security 🚨
 
 ### Social Profile
 
